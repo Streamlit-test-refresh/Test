@@ -4,7 +4,6 @@ import joblib
 from PIL import Image
 import numpy as np
 
-st.image("Dell.jpg")
 st.title("Welcome to Dell ISG NPI")
 st.text("Crack Detector using KNN")
 
